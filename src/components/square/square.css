@@ -1,0 +1,12 @@
+.square {
+  aspect-ratio: 1 / 1;
+  border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ninja-svg {
+  width: 80%;
+  height: 80%;
+}
